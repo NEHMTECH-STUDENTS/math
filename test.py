@@ -9,3 +9,6 @@ def greet():
 
 def greetings():
     return "Hello there!"
+
+a = 100
+b = 200
