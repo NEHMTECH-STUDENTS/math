@@ -12,3 +12,4 @@ def greetings():
 
 a = 100
 b = 200
+txt = "Hello there"
